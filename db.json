@@ -1,6 +1,15 @@
 {
+    "todo1":[
+    {"name":"todo1"},
+    {"name":"todo2"}
+  ],
+  
+  "todo2":[
+    {"name":"todo1"},
+    {"name":"todo2"}
+  ],
   "posts": [
-    { "id": 1, "title": "Post 1" },
+    { "id": 0, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
@@ -10,14 +19,6 @@
   ],
   "profile": {
     "name": "typicode"
-  },
-  "todo1":[
-    {"name":"todo1"},
-    {"name":"todo2"}
-  ],
-  
-  "todo2":[
-    {"name":"todo1"},
-    {"name":"todo2"}
-  ]
+  }
+
 }
