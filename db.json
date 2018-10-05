@@ -11,12 +11,12 @@
   "profile": {
     "name": "typicode"
   },
-  "todo-set1":[
+  "todo1":[
     {"name":"todo1"},
     {"name":"todo2"}
   ],
   
-  "todo-set2":[
+  "todo2":[
     {"name":"todo1"},
     {"name":"todo2"}
   ]
